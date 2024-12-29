@@ -100,7 +100,7 @@ class RecyclingEcommerceChatbot:
 app = Flask(__name__)
 
 # Initialize the chatbot (replace with your actual API key)
-GEMINI_API_KEY = "AIzaSyCiGGJUDQbblLKUIjebqpnEaajLy4-H1TU"
+GEMINI_API_KEY = "ُEnter your api key"
 chatbot = RecyclingEcommerceChatbot(GEMINI_API_KEY)
 
 
